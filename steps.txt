@@ -1,0 +1,12 @@
+# input: tenancy_id and api_key_delete_threshold_days
+
+# steps:
+    # 1. Read the tenancy_id and api_key_delete_threshold_days from the input file
+    # 2. Get the list of domains in the tenancy
+    # 3. For each domain, get the list of users
+    # 4. For each user, get the list of api keys
+    # 5. For each api key, get the last used date
+    # 6. If the created at  date is more than api_key_delete_threshold_days days ago, delete the api key
+
+
+

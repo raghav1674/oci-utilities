@@ -1,0 +1,5 @@
+scripts
+test
+output.json
+__pycache__
+*.pyc

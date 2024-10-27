@@ -1,0 +1,9 @@
+{
+    "tenancy_id": "ocid1.tenancy.oc1..aaaaaaaaxxxxxx",
+    "api_key_delete_threshold_days": 90,
+    "users_to_exclude": [
+        "username1",
+        "username2"
+    ],
+    "dry_run": true
+}
