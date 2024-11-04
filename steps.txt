@@ -5,8 +5,8 @@
     # 2. Get the list of domains in the tenancy
     # 3. For each domain, get the list of users
     # 4. For each user, get the list of api keys
-    # 5. For each api key, get the last used date
-    # 6. If the created at  date is more than api_key_delete_threshold_days days ago, delete the api key
+    # 5. For each api key, get the created date
+    # 6. If the created_at  date is more than api_key_delete_threshold_days days ago, delete the api key
 
-
-
+todo:
+    - filter on domain 
